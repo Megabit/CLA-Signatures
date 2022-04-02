@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "David-Moreira",
+      "id": 22283161,
+      "comment_id": 1086659528,
+      "created_at": "2022-04-02T15:11:51Z",
+      "repoId": 472518821,
+      "pullRequestNo": 20
+    }
+  ]
 }
